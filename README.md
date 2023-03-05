@@ -1,1 +1,1 @@
-Calculadora simples com uso do switch/case.
+Resolução de exercícios na linguagem C.

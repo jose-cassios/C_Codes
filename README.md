@@ -1,1 +1,1 @@
-# Resolução de exercícios na linguagem C.
+# Resolução de exercícios na linguagem C.git

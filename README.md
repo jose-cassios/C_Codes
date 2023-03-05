@@ -1,1 +1,1 @@
-Calculadora simples com uso do switch/case.
+# Calculadora simples com uso do switch/case.
